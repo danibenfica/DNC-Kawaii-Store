@@ -1,4 +1,5 @@
-![Gif DNC Kawaii Store](./images/dnc kawaii store.gif)
+![dnc kawaii store](https://github.com/danibenfica/dnc-kawaii-store/assets/103818625/266fe28b-cf22-4e22-9251-1ee39f3f1de6)
+
 
 
 ### Bem-vindo(a) à documentação da Lojinha DNC! :heart:
