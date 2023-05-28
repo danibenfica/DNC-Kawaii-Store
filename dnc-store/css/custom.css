@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
+
+
+
+#anime-girl {
+    position: absolute;
+    width:300px;
+    left: -400px;
+    top: 30px;
+}
+
+.carousel {
+    overflow: hidden;
+}
+
+
+#main_slider {background-color: black !important;}
+
+.carousel-inner {
+    background-color: rgb(255, 125, 216);
+}
+
+.titulo {
+
+    left: 250px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Oleo Script', cursive;
+    
+}
+
+.carousel-control-prev:hover {
+    background-color: rgb(255, 24, 186) !important;
+}
+
+.carousel-control-next:hover {
+
+    background-color: rgb(255, 24, 186) !important;
+}
+
+.img-box { 
+    left: 1800px;
+
+}
+
+.img-box6{
+    margin-left: 200px;
+    width: 300px;
+    background-color: rgb(255, 234, 118);
+    border-radius: 30px;
+
+}
+
+#img1  {
+    position: relative;
+    width: 230px;
+    height: 230px;
+    top: 10px;
+    justify-content: center;
+}
+
+#img2  {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin-left: 20px;
+    top: -4px;
+    overflow: hidden;
+}
+
+
+#img3  {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin-left: 20px;
+    top: 10px;
+    overflow: hidden;
+}
+
+.img-box6 {
+    display: flex !important;
+    overflow-x: auto !important;
+}
+
+.img-box6 figure {
+    flex: 0 0 auto !important;
+    margin-right: 10px !important;
+}
+
+.botao-banner {
+    background-color: rgb(255, 177, 183);
+    width: 100px;
+    height: 30px;
+    border-radius: 40px;
+    cursor: pointer;
+    
+}
+
+.botao-banner:hover {
+    background-color: rgb(255, 24, 186);
+    color: white;
+}
+
+.kwaii {
+    color: #e4069a;
+}
+
+#pFrase {
+    font-family: 'Oleo Script', cursive;
+    font-size: 22px;
+    color: white;
+}
+
+.sb-color {
+    color: #e4069a;
+}
+
+
+.logoDNC {
+    margin-top: -30px;
+    width: 100px;
+}
+
+#carrinho {
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.iconClient {
+    width: 400px;
+    height: 400px ;
+    border-radius: 50%;
+}
+
+#telaAgradecimentoBg {
+    background-color: #FF7DD8;
+}
+
+#telaAgradecimento {
+    width: 600px;
+    height: 200px;
+    background-color: rgb(255, 234, 118);
+    margin-left: 28%;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 60px;
+    color: #e4069a;
+    border-radius: 30px;
+
+}
+
+#btVoltar {
+    width: 200px;
+    height: 50px;
+    margin-left: 43%;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 234, 118);
+    color: #e4069a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#btVoltar:hover {
+    background-color: #e4069a;
+    color: white;
+}
+
+#mensagem {
+    font-size: 20px;
+}
+
+#carrinho {
+    background-color: #FF7DD8;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 30px;
+}
+
+#carrinho h2 {
+    color: #e4069a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+}
+
+#itens-carrinho {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+
+#total-carrinho {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+
+#btn-comprar {
+    background-color: #ff25b6;
+    color: white;
+    width: 120px;
+    border-radius: 20px;
+    margin-left: 45%;
+    cursor: pointer;
+    
+}
+
+#btn-comprar:hover {
+    background-color: rgb(255, 234, 118);
+    color: #e4069a;
+}
+
+.adicionar-ao-carrinho{
+    width: 300px;
+    height: 50px;
+    background-color: #ff25b6;
+    color: white;
+    margin-top: 12px;
+    border-radius: 20px;
+}
+
+    .adicionar-ao-carrinho:hover {
+        background-color: #FF7DD8;
+        color: #e4069a;
+        font-weight: bold;
+    }
+
+
+.menuHover:hover {
+    background-color: #e4069a;
+    color: white;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.card-produto:hover {
+    box-shadow: 20px 20px;
+    color: #e4069a;
+}
+
+.card-produto-destaque {
+    box-shadow: 50px 40px;
+    color: #e4069a;
+}
+
+
+#product-list {
+    display: flex;
+}
